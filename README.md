@@ -13,3 +13,8 @@ In terminal, run following command: **npm run build**
 ## Lints and Fixes files
 In terminal, run following command: **npm run lint**
 
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+
