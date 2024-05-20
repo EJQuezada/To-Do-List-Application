@@ -17,4 +17,5 @@ In terminal, run following command: **npm run lint**
 - HTML
 - CSS
 - JavaScript
+- jQuery
 
